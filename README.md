@@ -1,0 +1,17 @@
+# our react app.
+
+1. introduction to react*
+1. App.js -> remove all code *
+1. understand all folder and file*
+1. cleanup files & Print Hello world*
+1. git integration
+1. understand component
+1. how to render
+1. props
+1. children
+1. conditonal render
+1. state(useState)
+1. list and key and map
+1. form (input and submit) & handlaing event.
+1. folder stucture
+1. create  todo app.
