@@ -4,9 +4,14 @@
 1. App.js -> remove all code *
 1. understand all folder and file*
 1. cleanup files & Print Hello world*
-1. git integration
-1. understand component
-1. how to render
+1. ---------------
+1. git integration**
+1. understand component**
+1. how to render**
+1. ---------------
+1. create 3 component (home,about,contact)
+1. import them in app.js
+1. separate and reuse component
 1. props
 1. children
 1. conditonal render
