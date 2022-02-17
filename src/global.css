@@ -1,0 +1,23 @@
+/* common */
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* header */
+.header,.footer{
+    display: flex;
+    background-color: aqua;
+    padding: 10px 20px;
+}
+
+/* page body */
+.content{
+    height: 80vh;
+}
+
+/* home */
+
+
+/* footer */

@@ -12,6 +12,7 @@
 1. create 3 component (home,about,contact)
 1. import them in app.js
 1. separate and reuse component
+1. css (style the component)
 1. props
 1. children
 1. conditonal render

@@ -1,12 +1,17 @@
-//react functional component is nothing but a funciton.which will return some jsx/html
-//1. function
-//2. it must retun some html/jsx
+import './global.css'
+
+import Footer from "./components/layout/Footer";
+import Header from "./components/layout/Header";
+import About from "./components/pages/about/About";
+import Home from "./components/pages/home/Home";
+
 const App = () => {
     return <div>
-
-        <h1>this is form reat</h1>
-
-
+        <Header />
+        <div className='content'>
+            <Home />
+        </div>
+        <Footer />
     </div>
 }
 
