@@ -14,7 +14,8 @@
 1. separate and reuse component
 1. css (style the component)
 1. -------------------
-1. props
+1. project 1: clone google.com home page
+1. props (properties)
 1. children
 1. conditonal render
 1. state(useState)

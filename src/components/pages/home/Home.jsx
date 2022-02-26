@@ -1,12 +1,20 @@
-function Home() {
+import Search from "../../layout/search/Search"
+import HomeButton from "./HomeButton"
+
+
+function Home({ title, desc }) {
+    // console.log(props);
     return (
-        <div>
-            <div style={{ fontSize: '50px', color: "#f9f9" }}>Hero</div>
-            <div>section 2</div>
-            <input type="text" style={{}} />
+        <div className="home">
             <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" alt="" />
-            <button>click me</button>
-            <div>section 3</div>
+            <Search />
+            <HomeButton />
+            <p>{
+                desc
+            }</p>
+
+            <p>{
+                title}</p>
         </div>
     )
 }
