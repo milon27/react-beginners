@@ -2,19 +2,16 @@ import Search from "../../layout/search/Search"
 import HomeButton from "./HomeButton"
 
 
-function Home({ title, desc }) {
+function Home({ url, title1, title2 }) {
     // console.log(props);
     return (
         <div className="home">
-            <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" alt="" />
+            <img src={url} alt="" />
             <Search />
             <HomeButton />
-            <p>{
-                desc
-            }</p>
+            <p>{title1}</p>
 
-            <p>{
-                title}</p>
+            <p>{title2}</p>
         </div>
     )
 }
