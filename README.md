@@ -15,12 +15,16 @@
 1. css (style the component)
 1. -------------------4th
 1. project 1: clone google.com home page
+1. ---------------------5th
 1. props (properties)
-1. ------------------------
+1. ------------------------6th
 1. children as props
-1. conditonal render
+1. ------------------------
+1. conditonal render (user is logged in we will show home page if not logged in will show login page )
 1. state(useState)
+1. -------------------------7th
 1. list and key and map
 1. form (input and submit) & handlaing event.
 1. folder stucture
 1. create  todo app.
+1. react router

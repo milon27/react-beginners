@@ -5,10 +5,10 @@ function Footer() {
         <div className="footer">
             <ul className="menu1">
 
-                <FooterLink title={''} url='' />
-                <FooterLink title={''} url='' />
-                <FooterLink title={''} url='' />
-                <FooterLink title={''} url='' />
+                <FooterLink title={'about '} url='' />
+                <FooterLink title={'privary'} url='' />
+                <FooterLink title={'contact'} url='' />
+                <FooterLink title={'home'} url='' />
 
 
             </ul>
