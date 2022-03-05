@@ -23,6 +23,7 @@
 1. conditonal render (user is logged in we will show home page if not logged in will show login page )
 1. state(useState)
 1. -------------------------7th
+1. useState with simple variable or object or array (print the value as json)
 1. list and key and map
 1. form (input and submit) & handlaing event.
 1. folder stucture
