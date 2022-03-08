@@ -24,10 +24,12 @@
 1. state(useState)
 1. -------------------------7th
 1. useState with simple variable or object or array (print the value as json)
-1. --------------------------
+1. --------------------------8th
 1. update array in state
 1. list and key and map
 1. form (input and submit) & handlaing event.
+1. ---------------------------
+1. create todo app.
 1. folder stucture
-1. create  todo app.
+1. ---------------------------
 1. react router

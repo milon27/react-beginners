@@ -38,6 +38,13 @@ export default function ArrayState() {
     }
 
     // update something (based on the index)
+    const udpate2ndPos = (updatedValue) => {
+        setArr((preArr) => {
+            const copy = [...preArr]
+            copy[2] = updatedValue
+            return copy
+        })
+    }
 
 
 
@@ -54,6 +61,12 @@ export default function ArrayState() {
             <button onClick={() => {
                 removeItem(3)
             }}>remove 3</button>
+
+            <button onClick={() => {
+                udpate2ndPos(7)
+            }}>
+                update position 2 element to 7/8/12
+            </button>
 
 
             <div>ArrayState {arr.join("--")}</div>
