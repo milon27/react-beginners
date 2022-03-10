@@ -27,7 +27,11 @@
 1. --------------------------8th
 1. update array in state
 1. list and key and map
-1. form (input and submit) & handlaing event.
+1. --------------------------9th
+1. use multiple state,
+1. use multiple onChange
+1. use Single OnCHange
+1. form (input and submit) & handlaing event. [login, signup form]
 1. ---------------------------
 1. create todo app.
 1. folder stucture
